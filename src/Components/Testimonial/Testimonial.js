@@ -3,7 +3,6 @@
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './Testimonial.css';
 import Pic1 from '../../Assets/img/testimonials/FreeCodeCamp - Responsive Web Design.jpeg';
-import Pic2 from '../../Assets/img/testimonials/Google Creative Certification.png';
 import Pic3 from '../../Assets/img/testimonials/IBM-Chatbox.png';
 import Pic4 from '../../Assets/img/testimonials/Problem Solving Basic - HackerRank.png';
 // import Logo1 from '../../Assets/img/testimonials/Logo/5847f91ccef1014c0b5e48b8.png';
@@ -11,7 +10,6 @@ import Pic4 from '../../Assets/img/testimonials/Problem Solving Basic - HackerRa
 // import Logo3 from '../../Assets/img/testimonials/Logo/icons8-ibm-96.png';
 // import Logo4 from '../../Assets/img/testimonials/Logo/icons8-hackerrank-96.png';
 
-import Pic5 from './FreeCodeCamp - Responsive Web Design.jpeg';
 
 
 import React from 'react';
