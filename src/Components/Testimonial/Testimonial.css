@@ -1,0 +1,16 @@
+.chatboximg{
+    border-radius: 15px 50px 30px;
+    height: 460px;
+}
+.carouselimg{
+    height: 500px;
+    width: 200px;
+}
+.slideimgg{
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 100%;
+  height: 100%;
+
+  
+}
